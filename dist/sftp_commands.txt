@@ -1,0 +1,4 @@
+cd /home/pelagic/public_html.www.pelagicpursuit.uni-bremen.de
+mput index.html
+mput -r assets
+quit
